@@ -8,12 +8,12 @@
 
 </h5>
 
-Welcome to the official code repository for "**[DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization](https://arxiv.org/abs/2406.01721)**".
+Welcome to the official code repository for "**[DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization](https://arxiv.org/abs/2604.17789)**".
 
 ## 📰 News
-* [2026/04/20] 🚀 Our DuQuant++ code is released!
+* [2026/04/21] 🚀 Our DuQuant++ code is released!
 * [2026/04/21] 🚀 Our DuQuant++ paper is available on arXiv!
-* [2024/09/26] 🌟 Our DuQuant paper has been accepted for an Oral presentation at NeurIPS 2024!
+* [2024/09/26] 🌟 Our [DuQuant](https://arxiv.org/abs/2406.01721) paper has been accepted for an Oral presentation at NeurIPS 2024!
 
 
 ## 👀 Introduction
