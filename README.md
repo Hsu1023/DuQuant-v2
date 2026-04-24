@@ -115,9 +115,9 @@ We thank the authors for their code.
 ## 📝 Citation
 We kindly request that you cite our work if you utilize the code or reference our findings in your research:
 ```
-@article{lin2024duquant++,
+@article{lin2026duquant++,
   title={DuQuant++: Fine-grained Rotation Enhances Microscaling FP4 Quantization},
-  author={Haokun Lin and Xinle Jia and Haobo Xu and Bingchen Yao and Xianglong Guo and Yichen Wu and Zhichao Lu and Ying Wei and Qingfu Zhang and Zhenan Sun},
+  author={Lin, Haokun and Jia, Xinle and Xu, Haobo and Yao, Bingchen and Guo, Xianglong and Wu, Yichen and Lu, Zhichao and Wei, Ying and Zhang, Qingfu and Sun, Zhenan},
   journal={arXiv preprint arXiv:2604.17789},
   year={2026}
 }
